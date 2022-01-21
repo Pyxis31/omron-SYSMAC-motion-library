@@ -5,3 +5,6 @@ Disconnection of the slave with a speed linear regression.
 Tracking of a slave starting at 0 speed of a master target position in continuous movement (conveyor).
 Simples relative or absolute moves done by my own generators (avoid MC_MOVE, etc.).
 Some simple kinematic tranformations (SCARA, 6-axis, others in construction..).
+
+![trace](https://user-images.githubusercontent.com/6805500/150575563-1c703707-6087-49f3-9ad7-165fe7c38f0e.jpg)
+
